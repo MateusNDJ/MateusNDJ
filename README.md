@@ -1,8 +1,6 @@
-<div align="right">
-    <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy Luffy GIF" width="500" />
+<div align="center">
+    <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy Luffy GIF" width="300" />
 </div>
-
-
 <p align="center">
     <strong>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca da minha primeira oportunidade na área de TI. Tenho paixão por tecnologia e desenvolvimento de software, e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante a graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</strong>
 </p>
