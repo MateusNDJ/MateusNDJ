@@ -1,3 +1,5 @@
+![Monkey D Luffy Luffy GIF](./pasta/monkey-d-luffy-luffy.gif)
+
 <p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca da minha primeira oportunidade na área de TI. Tenho paixão por tecnologia e desenvolvimento de software, e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante a graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
