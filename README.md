@@ -39,8 +39,6 @@
 
 ## Contatos:
 
-<a href="https://www.linkedin.com/in/mateusndj" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer)
