@@ -9,7 +9,7 @@
 
 <div align="center">
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=MateusNDJ&theme=radical&mode=weekly" />
-    <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MateusNDJ&show_icons=true&theme=radical&layout=compact" />
+    <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ## Minhas habilidades
