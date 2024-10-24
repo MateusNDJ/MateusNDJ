@@ -2,7 +2,7 @@
     <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy Luffy GIF" width="300" />
 </div>
 <p align="center">
-    <strong>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca da minha primeira oportunidade na área de TI. Tenho paixão por tecnologia e desenvolvimento de software, e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante a graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</strong>
+    <strong>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e trabalho como Tecnico de Suporte Jr. Estou em busca da me aprimorar como desenvolvedor  e um dia ter a oportunidade na area . Tenho paixão por tecnologia e desenvolvimento de software, e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante a graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</strong>
 </p>
 
 
