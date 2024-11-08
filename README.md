@@ -2,14 +2,12 @@
     <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy Luffy GIF" width="300" />
 </div>
 <p align="center">
-    <strong>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e trabalho como Tecnico de Suporte Jr. Estou em busca da me aprimorar como desenvolvedor  e um dia ter a oportunidade na area . Tenho paixão por tecnologia e desenvolvimento de software, e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante a graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</strong>
+    <strong>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e trabalho como Técnico de Suporte Jr. Estou em busca da me aprimorar como desenvolvedor e um dia ter a oportunidade na área. Tenho paixão por tecnologia e desenvolvimento de software, e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante a graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</strong>
 </p>
-
-
 
 <div align="center">
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=MateusNDJ&theme=radical&mode=weekly" />
-    <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MateusNDJ&show_icons=true&theme=radical&layout=compact" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ## Minhas habilidades
