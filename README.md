@@ -2,7 +2,7 @@
     <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy Luffy GIF" width="300" />
 </div>
 <p align="center">
-    <strong>Atualmente, trabalho como DEV Jr., onde desenvolvo minhas habilidades em resolução de problemas técnicos e atendimento ao usuário. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e busco continuamente me aprimorar como desenvolvedor, visando uma futura oportunidade na área. Tenho uma paixão imensa por tecnologia e desenvolvimento de software e estou ansioso para aplicar e expandir os conhecimentos adquiridos durante minha graduação. Sou dedicado, proativo e sempre aberto a aprender novas tecnologias para aprimorar minhas habilidades.</strong>
+    <strong>Desenvolvedor Jr | Full Stack em formação | JavaScript| Estudante de ADS | Experiência em C#, Kotlin, SQL e Marketing Digital</strong>
 </p>
 
 <div align="center">
