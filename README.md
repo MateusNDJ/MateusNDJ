@@ -28,8 +28,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração de Computador">
-
 ### Linguagem secundária:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,7 +43,9 @@
 ![UX Design](https://img.shields.io/badge/UX%20Design-5B8C5A?style=for-the-badge&logoColor=white)
 
 ## Contatos: 📞
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer)
