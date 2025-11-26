@@ -3,21 +3,21 @@
 </div>
 <p align="center">
     <strong>Atualmente, atuo como Desenvolvedor Júnior na GO Technology, aprimorando habilidades em
- tecnologia, integração de sistemas e suporte técnico. Tenho experiência prévia como Auxiliar
- Administrativo na Rede Spirit, com foco em atendimento ao cliente, redes e operações internas, além
- de vivência como Técnico de Suporte Júnior, realizando manutenção de sistemas e atendimento a
- usuários. Estudante de Análise e Desenvolvimento de Sistemas, sou proativo, comunicativo e
- orientado a resultados, buscando constantemente evolução técnica e contribuir para um ambiente
- colaborativo e de excelência.</strong>
+    tecnologia, integração de sistemas e suporte técnico. Tenho experiência prévia como Auxiliar
+    Administrativo na Rede Spirit, com foco em atendimento ao cliente, redes e operações internas, além
+    de vivência como Técnico de Suporte Júnior, realizando manutenção de sistemas e atendimento a
+    usuários. Estudante de Análise e Desenvolvimento de Sistemas, sou proativo, comunicativo e
+    orientado a resultados, buscando constantemente evolução técnica e contribuir para um ambiente
+    colaborativo e de excelência.</strong>
 </p>
 
 <div align="center">
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&show_icons=true&theme=radical&layout=compact" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&theme=radical" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&show_icons=true&theme=red&layout=compact" />
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&theme=red" />
 
 </div>
 
-## Minhas habilidades
+## Minhas habilidades 🛠️
 
 ### Linguagem principal:
 
@@ -28,12 +28,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração de Computador">
 
 ### Linguagem secundária:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E63F3F?style=for-the-badge&logo=git&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -44,8 +44,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![UX Design](https://img.shields.io/badge/UX%20Design-5B8C5A?style=for-the-badge&logoColor=white)
 
-## Contatos:
+## Contatos: 📞
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer)
