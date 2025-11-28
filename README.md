@@ -31,7 +31,9 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 </p>
 
 <br/><br/><br/><br/>
----
+
+
+
 
 ## 🤖 Linguagens e Tecnologias
 
