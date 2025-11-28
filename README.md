@@ -17,7 +17,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
       <a href="https://github.com/MateusNDJ">
         <img 
           alt="GitHub Stats" 
-          height="200" 
+          height="500" 
           src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&include_all_commits=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"
         />
       </a>
@@ -26,7 +26,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
       <a href="https://github.com/MateusNDJ">
         <img 
           alt="Top Langs" 
-          height="200" 
+          height="500" 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=9"
         />
       </a>
@@ -37,7 +37,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 
 ---
 <div >
-<img align="right" src="computer-illustration.png" width="500" style="margin-top: -200px; position: absolute; right: 0; z-index: 100; top: 50%; transform: translateY(-50%);"/>
+<img align="right" src="computer-illustration.png" width="500" style="margin-top: -200px; position: absolute; right: 0; z-index: 70; top: 50%; transform: translateY(-50%);"/>
 </div>
 ## 🤖 Linguagens e Tecnologias
 
