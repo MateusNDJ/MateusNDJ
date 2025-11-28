@@ -13,7 +13,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -25,6 +26,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </div>
 
 
