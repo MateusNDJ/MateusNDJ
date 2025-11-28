@@ -5,7 +5,7 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por aprendizado contínuo, colaboração e evolução técnica.
 
 <div align="center">
-    <img src="cowboy.gif" alt="cowboy.gif" width="300"/>
+    <img src="cowboy.gif" alt="cowboy.gif" width="400"/>
 </div>
 
 ## 📊 Estatísticas
