@@ -36,9 +36,9 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 </div>
 
 ---
-<div >
-<img align="right" src="computer-illustration.png" width="500" style="margin-top: -200px; position: absolute; right: 0; z-index: 70; top: 50%; transform: translateY(-50%);"/>
-</div>
+
+<img align="right" src="computer-illustration.png" width="500" style="margin-top: -100px; position: absolute; right: 0; z-index: 70; top: 40%; transform: translateY(-40%);"/>
+
 ## 🤖 Linguagens e Tecnologias
 
 ### **Principais Linguagens e Frameworks**  
