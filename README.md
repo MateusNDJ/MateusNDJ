@@ -10,7 +10,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 </div>
 
 ---
-
 ## 📊 Estatísticas
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -18,13 +17,13 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&include_all_commits=true&locale=pt-br&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=00000000&border_color=FF0000" 
   />
 
   <img 
     alt="GitHub Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=00000000&border_color=FF0000" 
   />
 
 </div>
