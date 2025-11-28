@@ -1,62 +1,71 @@
-# 👨🏻‍💻 Mateus Nóbrega
-
+# 🧑🏻‍💻 Mateus Nóbrega  
 **`Desenvolvedor Júnior | FullStack`**
 
 Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sistemas, suporte técnico e soluções internas. Tenho experiência como Auxiliar Administrativo na Rede Spirit, com foco em atendimento ao cliente, redes e operações internas, além de atuação como Técnico de Suporte Júnior.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por aprendizado contínuo, colaboração e evolução técnica.
 
 <div align="center">
-    <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy Luffy GIF" width="300" />
+    <img src="monkey-d-luffy-luffy.gif" alt="Monkey D Luffy" width="300"/>
 </div>
 
----
 ## 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&include_all_commits=true&locale=pt-br&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=00000000&border_color=FF0000" 
-  />
-
-  <img 
-    alt="GitHub Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=00000000&border_color=FF0000" 
-  />
-
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MateusNDJ">
+        <img 
+          alt="GitHub Stats" 
+          height="200" 
+          src="https://github-readme-stats.vercel.app/api?username=MateusNDJ&show_icons=true&include_all_commits=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MateusNDJ">
+        <img 
+          alt="Top Langs" 
+          height="200" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=9"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
-
+---
 ## 🤖 Linguagens e Tecnologias
 
-### Principais Linguagens e Frameworks  
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="right" src="computer-illustration.png" width="500" style="margin-top: -200px; position: relative; z-index: 10;"/>
+
+### **Principais Linguagens e Frameworks**  
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
 <br/><br/>
 
-### Outras Tecnologias  
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+### **Outras Tecnologias**  
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <br/><br/>
 
 ---
 
-## 🛠️ Ferramentas de Trabalho e Bancos de Dados
+## 🛠️ Ferramentas
 
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="UX Design" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 <br/><br/>
 
@@ -67,7 +76,3 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
 
 ---
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
-</div>
