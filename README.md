@@ -1,5 +1,3 @@
-
-
 #  Mateus Nóbrega  
 **`Desenvolvedor Júnior | FullStack`**
 
@@ -10,6 +8,17 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
     <img src="cowboy.gif" alt="cowboy.gif" width="400"/>
 </div>
 
+## 📊 Estatísticas
+
+<div align="center">
+    <a href="https://github.com/MateusNDJ">
+        <img 
+          alt="Top Langs" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=9"
+        />
+    </a>
+</div>
+
 ---
 
 <img align="right" src="computer-illustration.png" width="500" style="margin-top: -100px; position: absolute; right: 0; z-index: 70; top: 40%; transform: translateY(-40%);"/>
@@ -17,12 +26,12 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por apr
 ## 🤖 Linguagens e Tecnologias
 
 ### **Principais Linguagens e Frameworks**  
+<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <br/><br/>
 
