@@ -1,4 +1,5 @@
-# 🧑🏻‍💻 Mateus Nóbrega **Desenvolvedor Júnior | FullStack**
+#  Mateus Nóbrega 
+**`Desenvolvedor Júnior | FullStack`**
 
 Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sistemas, suporte técnico e soluções internas. Tenho experiência como Auxiliar Administrativo na Rede Spirit, com foco em atendimento ao cliente, redes e operações internas, além de atuação como Técnico de Suporte Júnior. Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por aprendizado contínuo, colaboração e evolução técnica.
 
@@ -26,7 +27,7 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
 
 ## 🤖 Linguagens e Tecnologias
 
-### **Principais Linguagens e Frameworks**
+### **`Principais Linguagens e Frameworks`**
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -35,7 +36,7 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <br/><br/>
 
-### **Outras Tecnologias**
+ ### **`Outras Tecnologiass`**
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -44,7 +45,7 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
 
 ---
 
-## 🛠️ Ferramentas
+ ### **`Ferramentas`**
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -53,7 +54,7 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
 
 ---
 
-## 📞 Contatos
+ ### **`Contatos`**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
 
 ---
