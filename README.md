@@ -7,21 +7,6 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
   <img src="cowboy.gif" alt="cowboy.gif" width="400"/>
 </div>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/MateusNDJ">
-          <img alt="Top Langs" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNDJ&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=9" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <img align="right" src="computer-illustration.png" width="500" style="margin-top: -100px; position: absolute; right: 0; z-index: 70; top: 40%; transform: translateY(-40%);"/>
 
