@@ -10,7 +10,7 @@ Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sist
 
 <img align="right" src="computer-illustration.png" width="500" style="margin-top: -100px; position: absolute; right: 0; z-index: 70; top: 40%; transform: translateY(-40%);"/>
 
-## 🤖 Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 ### **`Principais Linguagens e Frameworks`**
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
