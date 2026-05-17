@@ -1,7 +1,7 @@
 #  Mateus Nóbrega 
 **`Desenvolvedor Júnior | FullStack`**
 
-Sou Desenvolvedor Júnior na **GO Technology**, atuando com integração de sistemas, suporte técnico e soluções internas. Tenho experiência como Auxiliar Administrativo na Rede Spirit, com foco em atendimento ao cliente, redes e operações internas, além de atuação como Técnico de Suporte Júnior. Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou movido por aprendizado contínuo, colaboração e evolução técnica.
+Sou Desenvolvedor Júnior na **Eletrografite Escovas de Carvão e Acessórios**, atuando com desenvolvimento em C# e JavaScript, automatização de tarefas e criação de soluções voltadas para a evolução dos processos internos da empresa. Anteriormente, atuei como Desenvolvedor Júnior na **GO Technology**, trabalhando com Next.js, NestJS e C#, desenvolvendo templates visuais, aplicações web e soluções internas. Atualmente curso Análise e Desenvolvimento de Sistemas e sou movido por aprendizado contínuo, colaboração e evolução técnica.
 
 <div align="center">
   <img src="cowboy.gif" alt="cowboy.gif" width="400"/>
