@@ -43,21 +43,30 @@ const mateus = {
 
 ## Stack
 
-<h3 align="center">Core</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,nestjs&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,nestjs&theme=light" alt="TypeScript, Node.js, Next.js, React and NestJS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccs%2Cpython%2Cjava%2Ckotlin%2Chtml%2Ccss&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,python,java,kotlin,html,css&theme=light" alt="TypeScript, JavaScript, C#, Python, Java, Kotlin, HTML and CSS" />
   </picture>
 </p>
 
-<h3 align="center">Languages, data and infrastructure</h3>
+<h3 align="center">Frameworks and runtime</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,cs,python,java,postgres,mysql,docker,git&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=js,cs,python,java,postgres,mysql,docker,git&theme=light" alt="JavaScript, C#, Python, Java, PostgreSQL, MySQL, Docker and Git" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Creact%2Cnextjs%2Cnestjs%2Cdotnet&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,dotnet&theme=light" alt="Node.js, React, Next.js, NestJS and .NET" />
+  </picture>
+</p>
+
+<h3 align="center">Data and tools</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cfirebase%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cidea%2Cfigma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github,vscode,idea,figma&theme=light" alt="PostgreSQL, MySQL, Firebase, Docker, Git, GitHub, VS Code, IntelliJ IDEA and Figma" />
   </picture>
 </p>
 
