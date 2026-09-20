@@ -4,11 +4,10 @@ import {AbsoluteFill, interpolate, useCurrentFrame} from 'remotion';
 export const palette = {
   black: '#070708',
   panel: '#0d0d10',
-  red: '#ef233c',
+  red: '#f21d3f',
   deepRed: '#8d0d20',
-  softRed: '#ff5a6d',
-  white: '#f5f5f5',
-  muted: '#9999a1',
+  white: '#f7f7f8',
+  muted: '#9b9ba3',
 };
 
 export const font = '"Segoe UI Variable Display", "Segoe UI", Arial, sans-serif';
@@ -16,46 +15,42 @@ export const mono = '"Cascadia Code", "SFMono-Regular", Consolas, monospace';
 
 export const Background: React.FC<{compact?: boolean}> = ({compact = false}) => {
   const frame = useCurrentFrame();
-  const scanX = interpolate(frame, [0, 150], [-30, 130], {
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
+  const glowX = 74 + Math.sin(frame / 24) * 4;
+  const scanX = interpolate(frame % 120, [0, 120], [-18, 118]);
 
   return (
-    <AbsoluteFill
-      style={{
-        overflow: 'hidden',
-        background:
-          'radial-gradient(circle at 82% 45%, rgba(239,35,60,.16), transparent 25%), linear-gradient(120deg, #070708 0%, #0d0d10 58%, #15090c 100%)',
-      }}
-    >
+    <AbsoluteFill style={{overflow: 'hidden', background: palette.black}}>
       <AbsoluteFill
         style={{
-          opacity: 0.14,
+          background: `radial-gradient(circle at ${glowX}% 48%, rgba(155,12,34,.30) 0%, rgba(80,8,20,.13) 24%, transparent 49%), linear-gradient(112deg, #070708 0%, #0b0b0e 58%, #12070a 100%)`,
+        }}
+      />
+      <AbsoluteFill
+        style={{
+          opacity: 0.1,
           backgroundImage:
             'linear-gradient(rgba(255,255,255,.08) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.08) 1px, transparent 1px)',
-          backgroundSize: compact ? '34px 34px' : '42px 42px',
-          maskImage: 'linear-gradient(to right, black, transparent 82%)',
+          backgroundSize: compact ? '32px 32px' : '40px 40px',
+          maskImage: 'linear-gradient(90deg, #000 0%, rgba(0,0,0,.55) 55%, transparent 92%)',
         }}
       />
       <div
         style={{
           position: 'absolute',
           left: `${scanX}%`,
-          top: '-35%',
-          width: 180,
-          height: '170%',
-          transform: 'rotate(14deg)',
-          background:
-            'linear-gradient(90deg, transparent, rgba(239,35,60,.10), transparent)',
-          filter: 'blur(14px)',
+          top: '-50%',
+          width: 80,
+          height: '200%',
+          transform: 'rotate(11deg)',
+          background: 'linear-gradient(90deg, transparent, rgba(242,29,63,.09), transparent)',
+          filter: 'blur(10px)',
         }}
       />
       <div
         style={{
           position: 'absolute',
           inset: 1,
-          border: '1px solid rgba(239,35,60,.38)',
+          border: '1px solid rgba(242,29,63,.42)',
           borderRadius: compact ? 18 : 24,
         }}
       />

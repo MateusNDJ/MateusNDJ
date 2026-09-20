@@ -9,17 +9,17 @@ export const Root: React.FC = () => (
       id="ProfileHero"
       component={ProfileHero}
       durationInFrames={120}
-      fps={30}
+      fps={24}
       width={1200}
       height={360}
     />
     <Composition
       id="TechStack"
       component={TechStack}
-      durationInFrames={150}
-      fps={30}
+      durationInFrames={120}
+      fps={24}
       width={1200}
-      height={240}
+      height={300}
     />
   </>
 );

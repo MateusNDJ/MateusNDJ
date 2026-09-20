@@ -1,95 +1,95 @@
 import React from 'react';
-import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Img, staticFile, useCurrentFrame} from 'remotion';
 import {Background, font, mono, palette} from './shared';
 
-const stacks = ['NODE.JS', 'REACT', 'NEXT.JS', 'C#', '.NET', 'JAVASCRIPT'];
+const technologies = [
+  {name: 'TypeScript', icon: 'typescript-original.svg', primary: true},
+  {name: 'JavaScript', icon: 'javascript-original.svg'},
+  {name: 'Node.js', icon: 'nodejs-original.svg'},
+  {name: 'React', icon: 'react-original.svg'},
+  {name: 'Next.js', icon: 'nextjs-original.svg', invert: true},
+  {name: 'C#', icon: 'csharp-original.svg'},
+  {name: 'Python', icon: 'python-original.svg'},
+  {name: 'PostgreSQL', icon: 'postgresql-original.svg'},
+  {name: 'Docker', icon: 'docker-original.svg'},
+  {name: 'Git', icon: 'git-original.svg'},
+];
 
 export const TechStack: React.FC = () => {
   const frame = useCurrentFrame();
-  const {fps} = useVideoConfig();
-  const core = spring({frame: frame - 8, fps, config: {damping: 16, stiffness: 120}});
-  const breathe = 1 + Math.sin(frame / 10) * 0.018;
-  const sweep = interpolate(frame % 90, [0, 90], [-20, 120]);
 
   return (
     <AbsoluteFill style={{fontFamily: font, color: palette.white}}>
       <Background compact />
 
-      <div style={{position: 'absolute', left: 54, top: 36}}>
-        <div style={{fontFamily: mono, color: palette.red, fontSize: 12, letterSpacing: 2}}>02 / TOOLKIT</div>
-        <div style={{fontSize: 20, fontWeight: 600, marginTop: 8}}>Built around TypeScript.</div>
+      <div style={{position: 'absolute', left: 54, top: 32}}>
+        <div style={{fontFamily: mono, color: palette.red, fontSize: 12, letterSpacing: 2}}>02 / STACK</div>
+        <div style={{fontSize: 20, fontWeight: 620, marginTop: 7}}>TypeScript at the core. A broader toolkit around it.</div>
       </div>
 
       <div
         style={{
           position: 'absolute',
-          left: '50%',
-          top: '50%',
-          width: 300,
-          height: 118,
-          transform: `translate(-50%, -43%) scale(${core * breathe})`,
-          opacity: core,
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          gap: 18,
-          background: 'linear-gradient(135deg, rgba(239,35,60,.18), rgba(239,35,60,.04))',
-          border: '1px solid rgba(239,35,60,.72)',
-          borderRadius: 18,
-          boxShadow: '0 20px 70px rgba(0,0,0,.45), inset 0 0 40px rgba(239,35,60,.06)',
-          overflow: 'hidden',
+          left: 54,
+          right: 54,
+          top: 104,
+          display: 'grid',
+          gridTemplateColumns: 'repeat(10, 1fr)',
+          gap: 10,
         }}
       >
-        <div
-          style={{
-            position: 'absolute',
-            left: `${sweep}%`,
-            top: -40,
-            width: 65,
-            height: 200,
-            transform: 'rotate(18deg)',
-            background: 'linear-gradient(90deg, transparent, rgba(255,255,255,.13), transparent)',
-          }}
-        />
-        <div style={{fontFamily: mono, fontSize: 40, fontWeight: 900, color: palette.red}}>TS</div>
-        <div>
-          <div style={{fontSize: 27, fontWeight: 720, letterSpacing: -1}}>TypeScript</div>
-          <div style={{fontFamily: mono, fontSize: 11, color: palette.muted, letterSpacing: 2, marginTop: 5}}>PRIMARY</div>
-        </div>
+        {technologies.map((tech, index) => {
+          const wave = Math.sin(frame / 10 - index * 0.62);
+          const lift = tech.primary ? wave * 4 : wave * 2.5;
+          const glow = Math.max(0, wave);
+
+          return (
+            <div
+              key={tech.name}
+              style={{
+                height: tech.primary ? 140 : 126,
+                marginTop: tech.primary ? -8 : 0,
+                borderRadius: 16,
+                border: tech.primary ? '1px solid rgba(242,29,63,.9)' : '1px solid rgba(255,255,255,.13)',
+                background: tech.primary
+                  ? 'linear-gradient(145deg, rgba(242,29,63,.22), rgba(17,10,13,.94))'
+                  : 'rgba(12,12,15,.84)',
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: 13,
+                transform: `translateY(${lift}px)`,
+                boxShadow: tech.primary
+                  ? `0 14px 38px rgba(0,0,0,.38), 0 0 ${18 + glow * 16}px rgba(242,29,63,.18)`
+                  : '0 12px 30px rgba(0,0,0,.2)',
+              }}
+            >
+              <Img
+                src={staticFile(`icons/${tech.icon}`)}
+                style={{
+                  width: tech.primary ? 48 : 40,
+                  height: tech.primary ? 48 : 40,
+                  objectFit: 'contain',
+                  filter: tech.invert ? 'invert(1)' : undefined,
+                }}
+              />
+              <div
+                style={{
+                  fontFamily: mono,
+                  fontSize: tech.primary ? 12 : 10,
+                  fontWeight: tech.primary ? 800 : 600,
+                  color: tech.primary ? '#fff' : '#c9c9cf',
+                  letterSpacing: 0.4,
+                  whiteSpace: 'nowrap',
+                }}
+              >
+                {tech.name}
+              </div>
+            </div>
+          );
+        })}
       </div>
-
-      {stacks.map((stack, index) => {
-        const delay = 22 + index * 6;
-        const progress = spring({frame: frame - delay, fps, config: {damping: 18, stiffness: 150}});
-        const side = index < 3 ? -1 : 1;
-        const slot = index % 3;
-        const x = side === -1 ? 80 + slot * 142 : 778 + slot * 130;
-        const y = 154 + (slot % 2) * 30;
-
-        return (
-          <div
-            key={stack}
-            style={{
-              position: 'absolute',
-              left: x,
-              top: y,
-              opacity: progress,
-              transform: `translateX(${(1 - progress) * side * 32}px)`,
-              padding: '9px 15px',
-              border: '1px solid rgba(255,255,255,.14)',
-              borderRadius: 999,
-              background: 'rgba(13,13,16,.82)',
-              color: index === 2 ? '#fff' : '#c8c8ce',
-              fontFamily: mono,
-              fontSize: 12,
-              letterSpacing: 1,
-              whiteSpace: 'nowrap',
-            }}
-          >
-            <span style={{color: palette.red, marginRight: 7}}>●</span>{stack}
-          </div>
-        );
-      })}
     </AbsoluteFill>
   );
 };

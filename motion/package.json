@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "scripts": {
     "studio": "remotion studio src/index.ts",
-    "render:hero": "remotion render src/index.ts ProfileHero ../assets/hero.gif --codec=gif --every-nth-frame=2",
-    "render:stack": "remotion render src/index.ts TechStack ../assets/stack.gif --codec=gif --every-nth-frame=2",
-    "render": "remotion render src/index.ts ProfileHero ../assets/hero.gif --codec=gif --every-nth-frame=2 && remotion render src/index.ts TechStack ../assets/stack.gif --codec=gif --every-nth-frame=2"
+    "render:hero": "remotion render src/index.ts ProfileHero ../assets/hero.gif --codec=gif --image-format=png",
+    "render:stack": "remotion render src/index.ts TechStack ../assets/stack.gif --codec=gif --image-format=png",
+    "render": "remotion render src/index.ts ProfileHero ../assets/hero.gif --codec=gif --image-format=png && remotion render src/index.ts TechStack ../assets/stack.gif --codec=gif --image-format=png"
   },
   "dependencies": {
     "@remotion/cli": "4.0.344",
