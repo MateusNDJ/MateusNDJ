@@ -5,16 +5,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=240&section=header&text=Mateus%20N%C3%B3brega&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Full%20Stack%20Developer%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=19" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=D40000&height=240&section=header&text=Mateus%20N%C3%B3brega&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Full%20Stack%20Developer%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=19" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=240&section=header&text=Mateus%20N%C3%B3brega&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Full%20Stack%20Developer%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=19" alt="Mateus Nóbrega — Full Stack Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=240&section=header&text=Mateus%20N%C3%B3brega&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=19" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=D40000&height=240&section=header&text=Mateus%20N%C3%B3brega&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=19" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=240&section=header&text=Mateus%20N%C3%B3brega&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=19" alt="Mateus Nóbrega — Desenvolvedor Full Stack" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=FF4D5F&center=true&vCenter=true&repeat=true&width=760&height=55&lines=TypeScript+no+centro+da+minha+stack;Aplica%C3%A7%C3%B5es+web%2C+APIs+e+automa%C3%A7%C3%B5es;Interfaces+claras+e+software+direto+ao+ponto;Construindo+solu%C3%A7%C3%B5es+que+eliminam+trabalho+repetitivo" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=B30000&center=true&vCenter=true&repeat=true&width=760&height=55&lines=TypeScript+no+centro+da+minha+stack;Aplica%C3%A7%C3%B5es+web%2C+APIs+e+automa%C3%A7%C3%B5es;Interfaces+claras+e+software+direto+ao+ponto;Construindo+solu%C3%A7%C3%B5es+que+eliminam+trabalho+repetitivo" alt="Apresentação animada" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=FF4D5F&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Transformando+ideias+em+software;Aplica%C3%A7%C3%B5es+web%2C+APIs+e+automa%C3%A7%C3%B5es;Interfaces+claras+e+software+direto+ao+ponto;Construindo+solu%C3%A7%C3%B5es+que+eliminam+trabalho+repetitivo" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=B30000&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Transformando+ideias+em+software;Aplica%C3%A7%C3%B5es+web%2C+APIs+e+automa%C3%A7%C3%B5es;Interfaces+claras+e+software+direto+ao+ponto;Construindo+solu%C3%A7%C3%B5es+que+eliminam+trabalho+repetitivo" alt="Apresentação animada" />
   </picture>
 </div>
 
@@ -35,8 +35,8 @@ Meu foco é criar interfaces claras, APIs bem definidas e automações que trans
 ```ts
 const mateus = {
   função: "Full Stack Developer",
-  principalStack: "TypeScript",
-  interesses: ["Web", "APIs", "Automação", "Cybersecurity"],
+  atuação: ["Web", "APIs", "Automação"],
+  interesses: ["Cybersecurity", "Dados", "Produtos"],
   localização: "São Paulo, Brasil",
 };
 ```
