@@ -1,47 +1,42 @@
-#  Mateus Nóbrega 
-**`Desenvolvedor Júnior | FullStack`**
-
-Sou Desenvolvedor Júnior na **Eletrografite Escovas de Carvão e Acessórios**, atuando com desenvolvimento em C# e JavaScript, automatização de tarefas e criação de soluções voltadas para a evolução dos processos internos da empresa. Anteriormente, atuei como Desenvolvedor Júnior na **GO Technology**, trabalhando com Next.js, NestJS e C#, desenvolvendo templates visuais, aplicações web e soluções internas. Atualmente curso Análise e Desenvolvimento de Sistemas e sou movido por aprendizado contínuo, colaboração e evolução técnica.
+<p align="right">
+  <strong>Português</strong> · <a href="./README.en.md">English</a>
+</p>
 
 <div align="center">
-  <img src="cowboy.gif" alt="cowboy.gif" width="400"/>
+  <img src="./assets/hero.gif" width="100%" alt="Mateus Nóbrega — Full-Stack Developer" />
 </div>
 
+### Olá — eu sou o Mateus.
 
-<img align="right" src="computer-illustration.png" width="500" style="margin-top: -100px; position: absolute; right: 0; z-index: 70; top: 40%; transform: translateY(-40%);"/>
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas. Trabalho na **Eletrografite**, criando aplicações internas e automações com C# e JavaScript. Antes disso, atuei na **GO Technology** com Next.js, NestJS e C#.
 
-##  Linguagens e Tecnologias
+Gosto de software direto ao ponto: interfaces claras, APIs bem definidas e automações que eliminam trabalho repetitivo.
 
-### **`Principais Linguagens e Frameworks`**
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<br/><br/>
+<p>
+  <a href="https://www.linkedin.com/in/mateusndj">LinkedIn</a> ·
+  <a href="https://github.com/MateusNDJ?tab=repositories">Repositórios</a>
+</p>
 
- ### **`Outras Tecnologiass`**
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<br/><br/>
+<br />
 
----
+<div align="center">
+  <img src="./assets/stack.gif" width="100%" alt="Stack principal: TypeScript, Node.js, React, Next.js, C#, .NET e JavaScript" />
+</div>
 
- ### **`Ferramentas`**
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<br/><br/>
+### Projetos selecionados
 
----
+| | Projeto | Descrição |
+| :---: | :--- | :--- |
+| `01` | [**Chatbot E-commerce**](https://github.com/MateusNDJ/Chatbot-C-) | Atendimento inteligente integrado ao Google Gemini, desenvolvido com C# e .NET. |
+| `02` | [**Painel de Entregadores**](https://github.com/MateusNDJ/painel_entregadores) | Gestão de rotas e localização em tempo real com JavaScript, Firebase e Leaflet. |
+| `03` | [**CineMatch**](https://github.com/MateusNDJ/Cinematch) | Quiz de compatibilidade cinematográfica com recomendações da API do TMDB. |
 
- ### **`Contatos`**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusndj)
+### Em foco
+
+`TypeScript` · `Node.js` · `React` · `Next.js` · `C#` · `.NET` · `APIs` · `Automação`
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer)
+<p align="center">
+  <sub>Disponível para trocar ideias, colaborar e construir produtos úteis.</sub>
+</p>

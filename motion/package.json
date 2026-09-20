@@ -1,0 +1,21 @@
+{
+  "name": "mateus-profile-motion",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render:hero": "remotion render src/index.ts ProfileHero ../assets/hero.gif --codec=gif --every-nth-frame=2",
+    "render:stack": "remotion render src/index.ts TechStack ../assets/stack.gif --codec=gif --every-nth-frame=2",
+    "render": "remotion render src/index.ts ProfileHero ../assets/hero.gif --codec=gif --every-nth-frame=2 && remotion render src/index.ts TechStack ../assets/stack.gif --codec=gif --every-nth-frame=2"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.344",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.344"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.14",
+    "typescript": "5.9.3"
+  }
+}
