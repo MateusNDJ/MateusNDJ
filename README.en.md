@@ -19,6 +19,7 @@
 </div>
 
 <p align="center">
+  <a href="https://mateusndj.github.io/Site-MateusNDJ/"><img src="https://img.shields.io/badge/Portfolio-View%20project-ef233c?style=for-the-badge&logo=vercel&logoColor=white" alt="Mateus Nóbrega portfolio" /></a>
   <a href="https://www.linkedin.com/in/mateusndj"><img src="https://img.shields.io/badge/LinkedIn-b30000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Eletrografite-Developer-ef233c?style=for-the-badge" alt="Eletrografite" />
   <img src="https://komarev.com/ghpvc/?username=MateusNDJ&label=PROFILE%20VIEWS&color=8b0000&style=for-the-badge" alt="Profile views" />
@@ -118,6 +119,7 @@ const mateus = {
 
 | Project | Highlights |
 | :--- | :--- |
+| [**Personal portfolio**](https://mateusndj.github.io/Site-MateusNDJ/) | React, TypeScript, Motion and a responsive experience. |
 | [**E-commerce Chatbot**](https://github.com/MateusNDJ/Chatbot-C-) | C#, .NET and Google Gemini integration. |
 | [**Delivery Dashboard**](https://github.com/MateusNDJ/painel_entregadores) | JavaScript, Firebase, Leaflet and real-time location. |
 | [**CineMatch**](https://github.com/MateusNDJ/Cinematch) | Movie compatibility quiz and recommendations powered by the TMDB API. |

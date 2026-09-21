@@ -19,6 +19,7 @@
 </div>
 
 <p align="center">
+  <a href="https://mateusndj.github.io/Site-MateusNDJ/"><img src="https://img.shields.io/badge/Portfólio-Ver%20projeto-ef233c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Mateus Nóbrega" /></a>
   <a href="https://www.linkedin.com/in/mateusndj"><img src="https://img.shields.io/badge/LinkedIn-b30000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Eletrografite-Desenvolvedor-ef233c?style=for-the-badge" alt="Eletrografite" />
   <img src="https://komarev.com/ghpvc/?username=MateusNDJ&label=VISITAS&color=8b0000&style=for-the-badge" alt="Visitas ao perfil" />
@@ -118,6 +119,7 @@ const mateus = {
 
 | Projeto | Destaques |
 | :--- | :--- |
+| [**Portfólio pessoal**](https://mateusndj.github.io/Site-MateusNDJ/) | React, TypeScript, Motion e experiência responsiva. |
 | [**Chatbot E-commerce**](https://github.com/MateusNDJ/Chatbot-C-) | C#, .NET e integração com Google Gemini. |
 | [**Painel de Entregadores**](https://github.com/MateusNDJ/painel_entregadores) | JavaScript, Firebase, Leaflet e localização em tempo real. |
 | [**CineMatch**](https://github.com/MateusNDJ/Cinematch) | Quiz cinematográfico e recomendações pela API do TMDB. |
