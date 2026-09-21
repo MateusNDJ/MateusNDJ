@@ -19,10 +19,13 @@
 </div>
 
 <p align="center">
-  <a href="https://mateusndj.github.io/Site-MateusNDJ/"><img src="https://img.shields.io/badge/Portfolio-View%20project-ef233c?style=for-the-badge&logo=vercel&logoColor=white" alt="Mateus Nóbrega portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mateusndj"><img src="https://img.shields.io/badge/LinkedIn-b30000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Eletrografite-Developer-ef233c?style=for-the-badge" alt="Eletrografite" />
-  <img src="https://komarev.com/ghpvc/?username=MateusNDJ&label=PROFILE%20VIEWS&color=8b0000&style=for-the-badge" alt="Profile views" />
+  <a href="https://mateusndj.github.io/Site-MateusNDJ/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-ef233c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mateusndj"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/MateusNDJ?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20CODE%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code on GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MateusNDJ&label=PROFILE%20VIEWS&color=8b0000&style=flat-square" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=B30000&height=2" alt="Divider" />
